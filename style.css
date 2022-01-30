@@ -174,3 +174,7 @@ div p {
     background-color: #1f2937;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.footer small {
+    justify-content: right;
+}
